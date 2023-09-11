@@ -1,0 +1,3 @@
+- Programação orientada a objetos.
+- Linguagem Python.
+- Realização com sistema de banco de dados.

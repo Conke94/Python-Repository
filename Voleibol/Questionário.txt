@@ -1,0 +1,89 @@
+ORGANIZACIONAIS
+1) O sistema atende as principais necessidades do cliente?
+R: Sim. O sistema fornece todas as funcionalidades requisitadas pelo cliente, tais como estatísticas, aproveitamento, interface ajustada...
+
+2) Quais os principais benefícios que o projeto trará para o cliente?
+R: O sistema fornecerá a possibilidade do cliente analisar estatísticas, armazenar dados e melhorar a estratégia da sua equipe. Outrora, ainda é possível utilizar o sistema para a análise de outras equipes.
+
+3) O sistema possui uma interface simples e clara? De modo a não causar transtornos ao usuário?
+Sim. O sistema foi desenvolvido com base em uma interface prática para o usuário, a fim de que qualquer pessoa pudesse utilizá-lo.
+
+4) Irá ser necessária uma equipe de gerenciamento do sistema?
+Não. O sistema poderá ser utilizado tranquilamente por apenas um usuário, sem a necessidade de preocupações constantes ou pessoal especializado.
+
+5) Os dados inseridos poderão ser considerados seguros?
+Sim. O sistema conta com uma base de dados prática e segura, sem riscos de perda de dados ou acontecimentos similares.
+
+6) Se durante as primeiras semanas de utilização o cliente não se sentir satisfeito com o sistema, ele poderá fazer mudanças ou pedir reembolso?
+Não. Após a entrega do sistema para o cliente, que será feita após uma série de reuniões e apresentações para o mesmo, não será possível realizar qualquer medida relacionada. Possíveis alterações poderão ser feitas apenas com a abertura de um novo projeto para modificações.
+
+7) O sistema é sustentável ao longo prazo?
+Sim. O sistema após a finalização poderá ser utilizado sem limitações, sendo durável por tempo indeterminado se executado nas condições pré-estabelecidas.
+
+
+========== ECONÔMICAS ==========
+1) Qual será aproximadamente o custo do projeto?
+
+2) Existe mercado real para o produto?
+R: Sim. O mercado do produto envolve principalmente times de voleibol.
+
+3) Haverá a necessidade de custos adicionais com relação a máquinas e meios operacionais para a empresa?
+R: Apenas caso o cliente não possua alguma máquina para o utilização do sistema, tendo em vista que o mesmo necessita de um computador para funcionar.
+
+4) O cliente terá algum custo com a manutenção do sistema?
+R: O projeto realizado não conta com um plano de manutenção do sistema. Desta forma, possíveis alterações futuras e atualizações não estão inclusas no valor total.
+
+5) Quais os valores de possíveis atualizações?
+R: Após a finalização e entrega do sistema de acordo com o desejado pelo cliente, o projeto está encerrado em sua totalidade. Dessa forma, eventuais alterações futuras deverão ser analisadas caso a caso, sendo o orçamento determinado de acordo com as mudanças desejadas em projetos futuros.
+
+6) Haverá a necessidade de contratação de funcionários especializados?
+Não. Por conter uma interface simples e prática, o sistema pode ser utilizado por funcionários de quase qualquer capacitação. Todavia, a análise e dados apresentados pelos sistema deverão ser feitas por um profissional ou conhecedo da área de voleibol, tendo em vistas que os dados por si só não resultam em um bom proveito operacional.
+
+7) A empresa poderá ter custos diferentes dos previstos inicialmente causados por impasses durante o desenvolvimento do projetos?
+Não. O projeto após sua sua definição custará um valor fixo para a empresa, não havendo a possibilidade de um orçamento extra. Além disso, o valor para possível problemas e alterações durante o desenvolvimento já estão previstos no valor orçamentado.
+
+
+
+========== TÉCNICAS ==========
+1) Quais as ferramentas de software e hardware a serem utilizadas?
+R: Para a utilização do sistema basta ter o sistema propriamente dito instalado em uma máquina de computador.
+
+2) O cliente dispõe de infra-estrusturua suficiente para sustentar o novo sistema?
+R: Sim, tendo em vista que os clientes já possuem as máquinas necessárias para a utilização do sistema.
+
+3) Como será gerenciada a base de dados?
+
+4) O programa poderá ser utilizado por mais de um usuário?
+O ideal é a utilização do programa de maneira que só um usuário utilize-o por vez. No entanto, o sistema possui um sistema de cadastro de técnicos/usuários, o que torna possível diferentes pessoas o utilizarem e terem suas coisas organizadas.
+
+5) O sistema poderá ser utilizado via celular?
+Não. O sistema foi desenvolvido exclusivamente para a utilização e computadores.
+
+6) O usuário poderá acrescentar diferentes atributos para os jogadores?
+Não. Todos os atributos são analisados e pensados em conjunto com o cliente durante o desenvolvimento do projeto, esse que após concluído não possui a função de adicionar novos atributos.
+
+7) Os dados são apresentados de forma organizada?
+Sim. O programa é feito com uma interface simples e clara, sendo que todas as informações apresentadas pelo usuário são de fácil leitura.
+
+
+========== OPERACIONAIS ==========
+1) Quais são os futuros usuários deste sistema?
+Treinadores, jogadores e analistas relacionados ao voleibol.
+
+2) Os futuros usuários apoiam o desenvolvimento do sistema?
+Sim, tendo em vista que o projeto fornece uma maior capacidade de análise dos jogadores, promovendo benefícios para a equipe durante a temporada.
+
+3) Os funcionários precisarão de treinamento para utilizar a ferramenta?
+Não. O sistema pode ser considerado simples e de fácil utilização, apresentando uma interface bem intuitiva que facilita sua utilização pelo usuário.
+
+4) Haverá necessidade de pessoal da área tecnológica?
+Não. O sistema é realizado com foco na interação do usuário com o projeto, sendo projetado para ser de fácil utilização e sem a necessidade de conhecimento na área tecnológica.
+
+5) Quanto tempo após a sua entrega o sistema pode trazer benefícios?
+O sistema será entregue em sua completude na data selecionada, bastando apenas a inserção de dados no mesmo. Quanto mais rápido esse processo for feito, mais rapidamente surgiram os benefícios.
+
+6) O que deverá feito se ocorrer defeitos no sistema?
+Se o sistema apresentar defeitos com relação ao previsto nas requisitações, o cliente poderá em contato para a correção do problema, sem custos adicionais. Todavia, caso o cliete queira atualizações ou alterações fora do previsto inicialmente, será realizado um novo orçamento separadamente, tendo em vista que tal serviço não encontra-se incluso no contrato.
+
+7) O sistema poderá apagar já dados já inseridos?
+Sim. O sistema possui a capacidade de deletar dados já inseridos se desejado pelo cliente.

@@ -1,0 +1,15 @@
+- Cadastra todas as jogadas de um jogador, além de se elas foram concluídas com sucesso ou não.
+- Divide os jogadores por time.
+- O usuário poderá cadastrar diferentes times.
+- A busca pode ser por jogador ou time.
+- Calcula a porcentagem de sucesso em cada ação.
+- Formação de ranking específicos para cada atributo.
+- Os rankings podem ser com relação ao geral ou ao time.
+- Cada jogador pode ter seu perfil acessado.
+- Os dados serão armazanados num banco de dados.
+- Cada jogador deverá ter uma foto em seu perfil.
+- As estatísticas devem ser recuperadas automaticamente após a inicialização do programa.
+- Os dados podem ser incrementados / decrementados.
+- Jogadores e times podem ser excluídos.
+- Cada jogador deve ter sua posição e atributos em destaque referentes a ela.
+
